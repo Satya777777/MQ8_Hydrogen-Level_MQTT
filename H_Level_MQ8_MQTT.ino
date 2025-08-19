@@ -3,9 +3,9 @@
 #include <WiFi.h>
 
 LiquidCrystal_I2C lcd(0x27, 16, 2);
-const char* ssid = "Satya07";
-const char* password = "Satya@1105";
-const char* mqtt_server = "broker.mqtt-dashboard.com";
+const char* ssid = "";
+const char* password = "";
+const char* mqtt_server = "";
 
 WiFiClient espClient;
 PubSubClient client(espClient);
