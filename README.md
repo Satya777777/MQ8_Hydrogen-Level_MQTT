@@ -102,4 +102,3 @@ Add buzzer/alert for high hydrogen concentration.
 
 This project is released under the MIT License – feel free to use, modify, and share.
 
-👉 Would you like me to also edit your code into the secrets.h format and update the README to show that method, so recruiters see you followed best security practices?
